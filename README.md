@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Black and White Planet Outer Space Presentation](https://github.com/user-attachments/assets/1667847d-c052-4f4d-af6d-dbe2310db09c)
+
 
 <h1 align="center">Hi 👋, I'm Paola Djobissie</h1>
 <h3 align="center">A passionate Cloud Engineer</h3>
